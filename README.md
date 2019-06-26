@@ -1,4 +1,4 @@
-# project_1_game_mastermine
+# Project_1_game_mastermine
 
 Alberto Abreu N.
 
