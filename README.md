@@ -4,7 +4,7 @@ Alberto Abreu N.
 
 Data Analytics, Barcelona 26-06-2019
 
-## Content
+## Contents
 
 - Project Description
 - Workflow
