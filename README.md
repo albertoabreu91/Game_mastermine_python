@@ -72,9 +72,13 @@ I choose to code this game because it will involve functions and nested function
 ##### Tools:
 
 1- Trello: for proyect management.
+
 2- Github as my repository platform.
+
 3- iterm as my terminal.
+
 4- Jupyter notebook as my python platform.
+
 5- Slides as my presentation tool.
 
 
