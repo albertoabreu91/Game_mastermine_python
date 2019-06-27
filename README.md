@@ -17,14 +17,14 @@ My project consist on coding a Mastermine game where you (the codebreaker) play 
 
 I choose to code this game because it will involve functions and nested functions. And because I used to play this game with my mom all the time.
 
-#### Users:
+### Users:
 
 **Codemaker**: The codemaker is the person who chooses a pattern of four code strings and provide feedback to the Codebreaker.
 
 **Codebraker**: The codebreaker tries to guess the pattern, in both order and color, within twelve (or ten, or eight) turns.
 
 
-#### The Game  flow:
+### The Game  flow:
 
 1- The Codemaker creates the pattern which is a list of four elements (i.e. [ ‘green’, ‘red’, ‘yellow’, ‘red’ ] ). This is created by the computer and you will not be able to see it, it is hidden from you. 
 
