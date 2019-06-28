@@ -85,6 +85,8 @@ I choose to code this game because it will involve functions and nested function
 ### Links
 
 Repository: https://github.com/albertoabreu91/project_1_game_mastermine
+
 Slides: https://slides.com/albertoabreu/deck/edit
+
 Trello: https://trello.com/b/shc7VAUJ/project-1-create-your-own-game
 
