@@ -1,4 +1,4 @@
-# Project_1_game_mastermine
+# Project 1 - Mastermind Game
 
 Alberto Abreu N.
 
